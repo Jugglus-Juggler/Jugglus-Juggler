@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Jugglus-Juggler
-- 👀 I’m interested in github
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on google play service
+- 👋 Hi, I’m @Jugglus-Juggler.
+- 👀 I’m interested in github.
+- 🌱 I’m currently learning python.
+- 💞️ I’m looking to collaborate on google play service.
 - 📫 How to reach me？My email is daixudavidzhang@gmail.com
 
 <!---
