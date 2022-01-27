@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jugglus-Juggler.
-- 👀 I’m interested in github.
+- 👀 I’m interested in learning in github.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on google play service.
 - 📫 How to reach me？Guess！
